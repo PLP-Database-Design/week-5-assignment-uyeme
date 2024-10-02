@@ -57,20 +57,7 @@ db.connect((err) => {
    // });
 //});
 
-// QUESTION ONE
-//app.get('/', (req, res) => {
 
- 
-    //const getPatients = "SELECT patient_id, first_name, last_name, date_of_birth FROM patients" 
-    // db.query(getPatients, (err, data) => {
-       // if(err){
-        //  return res.status(500).send('Error Retrieving data');
-       // }else {
-         
-           // res.status(200).send(data);
-      //  }
-  //  });
-// });
 // QUESTION THREE
 //app.get('/', (req, res) => {
 
